@@ -1,0 +1,1220 @@
+/*Mobile Styles*/
+
+@media only screen and (min-width: 600px) {
+  body {
+    font-family: "ralewaylight";
+    font-size: 14px;
+    color: #2d2d2d;
+    margin: 0;
+  }
+  header {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #logo_area {
+    background-color: white;
+    flex-basis: 47%;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  #cart {
+    flex-basis: 48%;
+    text-align: right;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+  }
+  nav {
+    flex-basis: 100%;
+    border-top: 1px solid #d7d7d7;
+    text-align: center;
+    color: #e2574c;
+  }
+  i {
+    margin: 10px;
+    size: 100px;
+  }
+  .fa {
+    display: inline-block;
+  }
+  li {
+    display: inline;
+    font-size: 40px;
+  }
+  ul {
+    list-style-type: none;
+    margin-top: 30px;
+    padding: 2px;
+    overflow: auto;
+  }
+  nav ul li {
+    font-family: "ralewaymedium";
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  nav ul a {
+    text-decoration: none;
+    color: #e2574c;
+  }
+  nav ul a:hover {
+    color: #b64036;
+  }
+  section.banner p {}
+  .banner {
+    text-align: center;
+    height: 900px;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/banner-girl.png), url(file:///Users/ramiwaked/Desktop/project-01/images/flower-bkgd.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain, cover;
+  }
+  section.banner {
+    filter: brightness(90%);
+  }
+  section {
+    text-align: center;
+  }
+  section.banner h1 {
+    font-family: 'playfair_displayregular';
+    color: white;
+    font-size: 85px;
+  }
+  section.banner h2 {
+    font-family: "ralewaymedium";
+    color: white;
+    padding-top: 180px;
+    font-size: 40px;
+  }
+  p#category {
+    font-size: 20px;
+  }
+  p#name {
+    font-size: 50px;
+    color: #e2574c;
+    font-family: 'playfair_displayregular';
+  }
+  p#price {
+    font-size: 24px;
+  }
+  p#nameimage1 {
+    color: white;
+    font-size: 60px;
+    font-family: "ralewaymedium";
+    padding: 200px;
+  }
+  p#nameimage6 {
+    color: white;
+    font-size: 60px;
+    font-family: "ralewaymedium";
+    padding: 200px;
+  }
+  p#nameimage {
+    color: white;
+    font-size: 60px;
+    font-family: "ralewaymedium";
+    margin-top: 200px;
+  }
+  #about {
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 5%;
+    padding: 2.1em;
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+  section#about p {
+    color: black;
+    line-height: 80px;
+    font-size: 40px;
+  }
+  section#about h1#bold {
+    font-family: "playfair_displaybold";
+    margin: 20px;
+  }
+  section#about h1#italic {
+    font-family: "playfair_displayregular";
+  }
+  section#about h1 {
+    display: inline;
+    font-size: 80px;
+  }
+  #contact {
+    background-color: white;
+    text-align: center;
+    height: 600px;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 100px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/wave-bkgd.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  section#contact h1#bold {
+    font-family: "playfair_displaybold";
+    margin: 20px;
+  }
+  section#contact h1#italic {
+    font-family: "playfair_displayregular";
+  }
+  section#contact h1 {
+    display: inline;
+    font-size: 80px;
+    color: white;
+  }
+  section#contact p {
+    color: white;
+    line-height: 80px;
+    font-size: 37px;
+  }
+  section#featured h1#bold {
+    font-family: "playfair_displaybold";
+    margin: 20px;
+  }
+  section#featured h1#italic {
+    font-family: "playfair_displayregular";
+  }
+  section#featured h1 {
+    font-size: 80px;
+    display: inline-block;
+  }
+  footer#footer {
+    font-size: 40px;
+  }
+  footer#footer p#gray {
+    color: #d7d7d7;
+  }
+  i p {
+    font-family: 'ralewaymedium'
+  }
+  p#hide {
+    display: none;
+  }
+  #image1 {
+    height: 490px;
+    width: 980px;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0px 0px 10px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/mens-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image2 {
+    height: 480.19px;
+    width: 480.19px;
+    max-width: 49%;
+    max-height: 100%;
+    float: left;
+    margin: 10px 10px 10px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/trends-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image3 {
+    height: 480.19px;
+    width: 480.19px;
+    max-width: 49%;
+    max-height: 100%;
+    float: right;
+    margin: 10px 0px 10px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/glasses-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image4 {
+    height: 480.19px;
+    width: 480.19px;
+    max-width: 49%;
+    max-height: 100%;
+    float: left;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/sale-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image5 {
+    height: 480.19px;
+    width: 480.19px;
+    max-width: 49%;
+    max-height: 100%;
+    float: right;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/bags-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image6 {
+    height: 490px;
+    width: 980px;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 10px 0px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/womens-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    clear: both;
+  }
+  #image1 {
+    height: 490px;
+    width: 980px;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0px 0px 10px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/mens-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image2 {
+    height: 480.19px;
+    width: 480.19px;
+    max-width: 49%;
+    max-height: 100%;
+    float: left;
+    margin: 10px 10px 10px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/trends-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image3 {
+    height: 480.19px;
+    width: 480.19px;
+    max-width: 49%;
+    max-height: 100%;
+    float: right;
+    margin: 10px 0px 10px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/glasses-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image4 {
+    height: 480.19px;
+    width: 480.19px;
+    max-width: 49%;
+    max-height: 100%;
+    float: left;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/sale-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image5 {
+    height: 480.19px;
+    width: 480.19px;
+    max-width: 49%;
+    max-height: 100%;
+    float: right;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/bags-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image6 {
+    height: 490px;
+    width: 980px;
+    max-width: 100%;
+    max-height: 100%;
+    margin: 10px 0px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/womens-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    clear: both;
+  }
+  #image7 {
+    height: 900px;
+    width: 900px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/checked-stretch-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image8 {
+    height: 900px;
+    width: 900px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-hipster-backpack.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image9 {
+    height: 900px;
+    width: 900px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-blue-shirt.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image10 {
+    height: 900px;
+    width: 900px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-yellow-tshirt.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image11 {
+    height: 900px;
+    width: 900px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/demin-overall-shorts.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image12 {
+    height: 900px;
+    width: 900px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/pink-dotted-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image13 {
+    height: 900px;
+    width: 900px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/stretch-knit-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image14 {
+    height: 900px;
+    width: 900px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-silk-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #footer {
+    color: white;
+    background-color: #242424;
+    text-align: center;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 1.3em;
+  }
+  footer a {
+    color: white;
+  }
+  input[type=email] {
+    width: 80%;
+    height: 60px;
+    font-size: 25px;
+    color: #969696;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #d7d7d7;
+    border-radius: 35px;
+  }
+  ::placeholder {
+    color: #d7d7d7;
+  }
+  .button {
+    background-color: #e2574c;
+    border: none;
+    color: white;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+    margin: 4px 2px;
+    border-radius: 30px;
+  }
+}
+
+/*Tablet Styles*/
+
+@media only screen and (min-width: 768px) and (min-width: 1024px) {
+  body {
+    font-family: "ralewaylight";
+    font-size: 16px;
+    color: #2d2d2d;
+    margin: 0;
+  }
+  header {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #logo_area {
+    background-color: white;
+    flex-basis: 25%;
+    order: 1;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  #cart {
+    flex-basis: 15%;
+    order: 3;
+    text-align: right;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+  }
+  nav {
+    flex-basis: 42%;
+    order: 2;
+    text-align: center;
+    margin-top: 66px;
+    border-top: 1px white;
+    color: #e2574c;
+  }
+  i {
+    margin: 10px;
+    size: 100px;
+  }
+  .fa {
+    display: block;
+  }
+  section#part1 {
+  display: inline-block;
+  margin-right: 141px;
+  margin-top: -32px;
+  }
+  section#part2 {
+    display: inline-block;
+  }
+  i p {
+    font-family: 'ralewaymedium'
+  }
+  p#hide {
+    display: inline;
+  }
+  li {
+    display: inline;
+    font-size: 22px;
+  }
+  ul {
+    list-style-type: none;
+    margin-top: 30px;
+    padding: 2px;
+    overflow: auto;
+  }
+  nav ul li {
+    font-family: "ralewaymedium";
+    margin-left: 19px;
+    margin-top: 19px;
+    margin-bottom: 19px;
+    margin-right: -8px;
+  }
+  nav ul a {
+    text-decoration: none;
+    color: #e2574c;
+  }
+  nav ul a:hover {
+    color: #b64036;
+  }
+  section.banner p {}
+  .banner {
+    text-align: center;
+    height: 900px;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/banner-girl.png), url(file:///Users/ramiwaked/Desktop/project-01/images/flower-bkgd.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain, cover;
+  }
+  section.banner {
+    filter: brightness(90%);
+  }
+  section {
+    text-align: center;
+  }
+  section.banner h1 {
+    font-family: 'playfair_displayregular';
+    color: white;
+    font-size: 85px;
+  }
+  section.banner h2 {
+    font-family: "ralewaymedium";
+    color: white;
+    padding-top: 180px;
+    font-size: 40px;
+  }
+  p#category {
+    font-size: 20px;
+  }
+  p#name {
+    font-size: 50px;
+    color: #e2574c;
+    font-family: 'playfair_displayregular';
+  }
+  p#price {
+    font-size: 24px;
+  }
+  p#nameimage1 {
+    color: white;
+    font-size: 60px;
+    font-family: "ralewaymedium";
+    padding-top: 140px;
+    padding-right: 140px;
+    padding-bottom: 140px;
+    padding-left: 140px;
+  }
+  p#nameimage6 {
+    color: white;
+    font-size: 60px;
+    font-family: "ralewaymedium";
+    padding-top: 140px;
+    padding-right: 140px;
+    padding-bottom: 140px;
+    padding-left: 140px;
+  }
+  p#nameimage {
+    color: white;
+    font-size: 60px;
+    font-family: "ralewaymedium";
+    margin-top: 200px;
+  }
+  #about {
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 5%;
+    padding: 2.1em;
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+  section#about p {
+    color: black;
+    line-height: 80px;
+    font-size: 40px;
+  }
+  section#about h1#bold {
+    font-family: "playfair_displaybold";
+    margin: 20px;
+  }
+  section#about h1#italic {
+    font-family: "playfair_displayregular";
+  }
+  section#about h1 {
+    display: inline;
+    font-size: 80px;
+  }
+  #contact {
+    background-color: white;
+    text-align: center;
+    height: 600px;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 100px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/wave-bkgd.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  section#contact h1#bold {
+    font-family: "playfair_displaybold";
+    margin: 20px;
+  }
+  section#contact h1#italic {
+    font-family: "playfair_displayregular";
+  }
+  section#contact h1 {
+    display: inline;
+    font-size: 80px;
+    color: white;
+  }
+  section#contact p {
+    color: white;
+    line-height: 80px;
+    font-size: 37px;
+  }
+  section#featured h1#bold {
+    font-family: "playfair_displaybold";
+    margin: 20px;
+  }
+  section#featured h1#italic {
+    font-family: "playfair_displayregular";
+  }
+  section#featured h1 {
+    font-size: 80px;
+    display: inline-block;
+  }
+  footer#footer {
+    font-size: 40px;
+  }
+  footer#footer p#gray {
+    color: #d7d7d7;
+  }
+  footer#footer p {
+    text-align: left;
+    font-size: 30px;
+  }
+  #image1 {
+    display: inline-block;
+    float: left;
+    height: 400px;
+    width: 980px;
+    max-width: 50%;
+    max-height: 100%;
+    margin: 0px 20px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/mens-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image2 {
+    display: inline-block;
+    float: none;
+    height: 400px;
+    width: 480.19px;
+    max-width: 23%;
+    max-height: 100%;
+    margin: 0px 15px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/trends-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image3 {
+    display: inline-block;
+    float: none;
+    height: 400px;
+    width: 480.19px;
+    max-width: 23%;
+    max-height: 100%;
+    margin: 0px 0px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/glasses-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image4 {
+    display: inline-block;
+    height: 400px;
+    width: 480.19px;
+    max-width: 24%;
+    max-height: 100%;
+    margin: 20px 20px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/sale-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image5 {
+    display: inline-block;
+    float: left;
+    height: 400px;
+    width: 480.19px;
+    max-width: 24%;
+    max-height: 100%;
+    margin: 20px 20px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/bags-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image6 {
+    display: inline-block;
+    float: none;
+    height: 400px;
+    width: 980px;
+    max-width: 48%;
+    max-height: 100%;
+    margin: 20px 0px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/womens-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    clear: both;
+  }
+  #image7 {
+    height: 600px;
+    width: 600px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/checked-stretch-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image8 {
+    height: 600px;
+    width: 600px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-hipster-backpack.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image9 {
+    height: 600px;
+    width: 600px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-blue-shirt.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image10 {
+    height: 600px;
+    width: 600px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-yellow-tshirt.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image11 {
+    height: 600px;
+    width: 600px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/demin-overall-shorts.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image12 {
+    height: 600px;
+    width: 600px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/pink-dotted-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image13 {
+    height: 600px;
+    width: 600px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/stretch-knit-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image14 {
+    height: 600px;
+    width: 600px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-silk-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #footer {
+    color: white;
+    background-color: #242424;
+    text-align: center;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 1.3em;
+  }
+  footer a {
+    color: white;
+  }
+  input[type=email] {
+    width: 80%;
+    height: 60px;
+    font-size: 25px;
+    color: #969696;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #d7d7d7;
+    border-radius: 35px;
+  }
+  ::placeholder {
+    color: #d7d7d7;
+  }
+  .button {
+    background-color: #e2574c;
+    border: none;
+    color: white;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+    margin: 4px 2px;
+    border-radius: 30px;
+  }
+}
+
+/*Desktop Styles*/
+
+@media only screen and (min-width: 1240px) {
+  body {
+    font-family: "ralewaylight";
+    font-size: 16px;
+    color: #2d2d2d;
+    margin: 0;
+  }
+  header {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #logo_area {
+    background-color: white;
+    flex-basis: 25%;
+    order: 1;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  #cart {
+    flex-basis: 12%;
+    order: 3;
+    text-align: right;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+  }
+  nav {
+    flex-basis: 50%;
+    order: 2;
+    text-align: center;
+    border-top: 1px solid white;
+    color: #e2574c;
+    margin-top: 70px;
+    margin-left: 45px;
+  }
+  i {
+    margin: 10px;
+    size: 100px;
+  }
+  .fa {
+    display: block;
+  }
+  section#part1 {
+  display: inline-block;
+  margin-right: 420px;
+  margin-top: -30px;
+  }
+  section#part2 {
+    display: inline-block;
+  }
+  i p {
+    font-family: 'ralewaymedium'
+  }
+  p#hide {
+    display: inline;
+  }
+  li {
+    display: inline;
+    font-size: 33px;
+  }
+  ul {
+    list-style-type: none;
+    margin-top: 30px;
+    padding: 2px;
+    overflow: auto;
+  }
+  nav ul li {
+    font-family: "ralewaymedium";
+    margin-right: 0px;
+    margin-left: 21px;
+    margin-top: 21px;
+    margin-bottom: 21px;
+  }
+  nav ul a {
+    text-decoration: none;
+    color: #e2574c;
+  }
+  nav ul a:hover {
+    color: #b64036;
+  }
+  section.banner p {}
+  .banner {
+    text-align: center;
+    height: 900px;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/banner-girl.png), url(file:///Users/ramiwaked/Desktop/project-01/images/flower-bkgd.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain, cover;
+  }
+  section.banner {
+    filter: brightness(90%);
+  }
+  section {
+    text-align: center;
+  }
+  section.banner h1 {
+    font-family: 'playfair_displayregular';
+    color: white;
+    font-size: 85px;
+  }
+  section.banner h2 {
+    font-family: "ralewaymedium";
+    color: white;
+    padding-top: 180px;
+    font-size: 40px;
+  }
+  p#category {
+    font-size: 15px;
+  }
+  p#name {
+    font-size: 27px;
+    color: #e2574c;
+    font-family: 'playfair_displayregular';
+  }
+  p#price {
+    font-size: 17px;
+  }
+  p#nameimage1 {
+    color: white;
+    font-size: 60px;
+    font-family: "ralewaymedium";
+    padding-top: 140px;
+    padding-right: 140px;
+    padding-bottom: 140px;
+    padding-left: 140px;
+  }
+  p#nameimage6 {
+    color: white;
+    font-size: 60px;
+    font-family: "ralewaymedium";
+    padding-top: 140px;
+    padding-right: 140px;
+    padding-bottom: 140px;
+    padding-left: 140px;
+  }
+  p#nameimage {
+    color: white;
+    font-size: 60px;
+    font-family: "ralewaymedium";
+    margin-top: 200px;
+  }
+  #about {
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 5%;
+    padding: 2.1em;
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+  section#about p {
+    color: black;
+    line-height: 80px;
+    font-size: 40px;
+  }
+  section#about h1#bold {
+    font-family: "playfair_displaybold";
+    margin: 20px;
+  }
+  section#about h1#italic {
+    font-family: "playfair_displayregular";
+  }
+  section#about h1 {
+    display: inline;
+    font-size: 80px;
+  }
+  #contact {
+    background-color: white;
+    text-align: center;
+    height: 600px;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 100px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/wave-bkgd.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  section#contact h1#bold {
+    font-family: "playfair_displaybold";
+    margin: 20px;
+  }
+  section#contact h1#italic {
+    font-family: "playfair_displayregular";
+  }
+  section#contact h1 {
+    display: inline;
+    font-size: 80px;
+    color: white;
+  }
+  section#contact p {
+    color: white;
+    line-height: 80px;
+    font-size: 37px;
+  }
+  section#featured h1#bold {
+    font-family: "playfair_displaybold";
+    margin: 20px;
+  }
+  section#featured h1#italic {
+    font-family: "playfair_displayregular";
+  }
+  section#featured h1 {
+    font-size: 80px;
+    display: inline-block;
+  }
+  footer#footer {
+    font-size: 40px;
+  }
+  footer#footer p#gray {
+    color: #d7d7d7;
+  }
+  #image1 {
+    display: inline-block;
+    float: left;
+    height: 400px;
+    width: 980px;
+    max-width: 49.5%;
+    max-height: 100%;
+    margin: 0px 20px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/mens-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image2 {
+    display: inline-block;
+    float: none;
+    height: 400px;
+    width: 480.19px;
+    max-width: 24%;
+    max-height: 100%;
+    margin: 0px 0px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/trends-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image3 {
+    display: inline-block;
+    float: right;
+    height: 400px;
+    width: 480.19px;
+    max-width: 23%;
+    max-height: 100%;
+    margin: 0px 0px 0px 17px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/glasses-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image4 {
+    display: inline-block;
+    height: 400px;
+    width: 480.19px;
+    max-width: 24%;
+    max-height: 100%;
+    margin: 20px 20px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/sale-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image5 {
+    display: inline-block;
+    float: left;
+    height: 400px;
+    width: 480.19px;
+    max-width: 24%;
+    max-height: 100%;
+    margin: 20px 20px 0px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/bags-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image6 {
+    display: inline-block;
+    float: none;
+    height: 400px;
+    width: 980px;
+    max-width: 48.45%;
+    max-height: 100%;
+    margin: 20px 0px 0px 4.9px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/womens-category.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    clear: both;
+  }
+  #image7 {
+    height: 400px;
+    width: 400px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/checked-stretch-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image8 {
+    height: 400px;
+    width: 400px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-hipster-backpack.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image9 {
+    height: 400px;
+    width: 400px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-blue-shirt.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image10 {
+    height: 400px;
+    width: 400px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-yellow-tshirt.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image11 {
+    height: 400px;
+    width: 400px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/demin-overall-shorts.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image12 {
+    height: 400px;
+    width: 400px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/pink-dotted-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image13 {
+    height: 400px;
+    width: 400px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/stretch-knit-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #image14 {
+    height: 400px;
+    width: 400px;
+    margin: 20px 0px 20px 0px;
+    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-silk-dress.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  #footer {
+    color: white;
+    background-color: #242424;
+    text-align: center;
+    max-width: 100%;
+    max-height: 100%;
+    padding: 1.3em;
+  }
+  footer a {
+    color: white;
+  }
+  input[type=email] {
+    width: 80%;
+    height: 60px;
+    font-size: 25px;
+    color: #969696;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid #d7d7d7;
+    border-radius: 35px;
+  }
+  ::placeholder {
+    color: #d7d7d7;
+  }
+  .button {
+    background-color: #e2574c;
+    border: none;
+    color: white;
+    padding: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 21px;
+    margin: 4px 2px;
+    border-radius: 30px;
+  }
+}
