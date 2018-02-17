@@ -69,7 +69,7 @@
     width: 100%;
     max-width: 100%;
     max-height: 100%;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/banner-girl.png), url(file:///Users/ramiwaked/Desktop/project-01/images/flower-bkgd.jpg);
+    background-image: url(../images/banner-girl.png), url(../images/flower-bkgd.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain, cover;
@@ -153,7 +153,7 @@
     max-width: 100%;
     max-height: 100%;
     margin-top: 100px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/wave-bkgd.jpg);
+    background-image: url(../images/wave-bkgd.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -203,7 +203,7 @@
     max-width: 100%;
     max-height: 100%;
     margin: 0px 0px 10px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/mens-category.jpg);
+    background-image: url(../images/mens-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -214,7 +214,7 @@
     max-height: 100%;
     float: left;
     margin: 10px 10px 10px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/trends-category.jpg);
+    background-image: url(../images/trends-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -225,7 +225,7 @@
     max-height: 100%;
     float: right;
     margin: 10px 0px 10px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/glasses-category.jpg);
+    background-image: url(../images/glasses-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -236,7 +236,7 @@
     max-height: 100%;
     float: left;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/sale-category.jpg);
+    background-image: url(../images/sale-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -247,7 +247,7 @@
     max-height: 100%;
     float: right;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/bags-category.jpg);
+    background-image: url(../images/bags-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -257,7 +257,7 @@
     max-width: 100%;
     max-height: 100%;
     margin: 10px 0px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/womens-category.jpg);
+    background-image: url(../images/womens-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     clear: both;
@@ -268,7 +268,7 @@
     max-width: 100%;
     max-height: 100%;
     margin: 0px 0px 10px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/mens-category.jpg);
+    background-image: url(../images/mens-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -279,7 +279,7 @@
     max-height: 100%;
     float: left;
     margin: 10px 10px 10px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/trends-category.jpg);
+    background-image: url(../images/trends-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -290,7 +290,7 @@
     max-height: 100%;
     float: right;
     margin: 10px 0px 10px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/glasses-category.jpg);
+    background-image: url(../images/glasses-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -301,7 +301,7 @@
     max-height: 100%;
     float: left;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/sale-category.jpg);
+    background-image: url(../images/sale-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -312,7 +312,7 @@
     max-height: 100%;
     float: right;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/bags-category.jpg);
+    background-image: url(../images/bags-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -322,7 +322,7 @@
     max-width: 100%;
     max-height: 100%;
     margin: 10px 0px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/womens-category.jpg);
+    background-image: url(../images/womens-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     clear: both;
@@ -331,7 +331,7 @@
     height: 900px;
     width: 900px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/checked-stretch-dress.jpg);
+    background-image: url(../images/checked-stretch-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -339,7 +339,7 @@
     height: 900px;
     width: 900px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-hipster-backpack.jpg);
+    background-image: url(../images/blue-hipster-backpack.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -347,7 +347,7 @@
     height: 900px;
     width: 900px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-blue-shirt.jpg);
+    background-image: url(../images/cotton-blue-shirt.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -355,7 +355,7 @@
     height: 900px;
     width: 900px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-yellow-tshirt.jpg);
+    background-image: url(../images/cotton-yellow-tshirt.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -363,7 +363,7 @@
     height: 900px;
     width: 900px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/demin-overall-shorts.jpg);
+    background-image: url(../images/demin-overall-shorts.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -371,7 +371,7 @@
     height: 900px;
     width: 900px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/pink-dotted-dress.jpg);
+    background-image: url(../images/pink-dotted-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -379,7 +379,7 @@
     height: 900px;
     width: 900px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/stretch-knit-dress.jpg);
+    background-image: url(../images/stretch-knit-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -387,7 +387,7 @@
     height: 900px;
     width: 900px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-silk-dress.jpg);
+    background-image: url(../images/blue-silk-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -519,7 +519,7 @@
     width: 100%;
     max-width: 100%;
     max-height: 100%;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/banner-girl.png), url(file:///Users/ramiwaked/Desktop/project-01/images/flower-bkgd.jpg);
+    background-image: url(../images/banner-girl.png), url(../images/flower-bkgd.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain, cover;
@@ -609,7 +609,7 @@
     max-width: 100%;
     max-height: 100%;
     margin-top: 100px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/wave-bkgd.jpg);
+    background-image: url(../images/wave-bkgd.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -659,7 +659,7 @@
     max-width: 50%;
     max-height: 100%;
     margin: 0px 20px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/mens-category.jpg);
+    background-image: url(../images/mens-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -671,7 +671,7 @@
     max-width: 23%;
     max-height: 100%;
     margin: 0px 15px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/trends-category.jpg);
+    background-image: url(../images/trends-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -683,7 +683,7 @@
     max-width: 23%;
     max-height: 100%;
     margin: 0px 0px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/glasses-category.jpg);
+    background-image: url(../images/glasses-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -694,7 +694,7 @@
     max-width: 24%;
     max-height: 100%;
     margin: 20px 20px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/sale-category.jpg);
+    background-image: url(../images/sale-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -706,7 +706,7 @@
     max-width: 24%;
     max-height: 100%;
     margin: 20px 20px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/bags-category.jpg);
+    background-image: url(../images/bags-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -718,7 +718,7 @@
     max-width: 48%;
     max-height: 100%;
     margin: 20px 0px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/womens-category.jpg);
+    background-image: url(../images/womens-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     clear: both;
@@ -727,7 +727,7 @@
     height: 600px;
     width: 600px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/checked-stretch-dress.jpg);
+    background-image: url(../images/checked-stretch-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -735,7 +735,7 @@
     height: 600px;
     width: 600px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-hipster-backpack.jpg);
+    background-image: url(../images/blue-hipster-backpack.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -743,7 +743,7 @@
     height: 600px;
     width: 600px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-blue-shirt.jpg);
+    background-image: url(../images/cotton-blue-shirt.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -751,7 +751,7 @@
     height: 600px;
     width: 600px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-yellow-tshirt.jpg);
+    background-image: url(../images/cotton-yellow-tshirt.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -759,7 +759,7 @@
     height: 600px;
     width: 600px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/demin-overall-shorts.jpg);
+    background-image: url(../images/demin-overall-shorts.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -767,7 +767,7 @@
     height: 600px;
     width: 600px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/pink-dotted-dress.jpg);
+    background-image: url(../images/pink-dotted-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -775,7 +775,7 @@
     height: 600px;
     width: 600px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/stretch-knit-dress.jpg);
+    background-image: url(../images/stretch-knit-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -783,7 +783,7 @@
     height: 600px;
     width: 600px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-silk-dress.jpg);
+    background-image: url(../images/blue-silk-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -916,7 +916,7 @@
     width: 100%;
     max-width: 100%;
     max-height: 100%;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/banner-girl.png), url(file:///Users/ramiwaked/Desktop/project-01/images/flower-bkgd.jpg);
+    background-image: url(../images/banner-girl.png), url(../images/flower-bkgd.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: contain, cover;
@@ -1006,7 +1006,7 @@
     max-width: 100%;
     max-height: 100%;
     margin-top: 100px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/wave-bkgd.jpg);
+    background-image: url(../images/wave-bkgd.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1052,7 +1052,7 @@
     max-width: 49.5%;
     max-height: 100%;
     margin: 0px 20px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/mens-category.jpg);
+    background-image: url(../images/mens-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1064,7 +1064,7 @@
     max-width: 24%;
     max-height: 100%;
     margin: 0px 0px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/trends-category.jpg);
+    background-image: url(../images/trends-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1076,7 +1076,7 @@
     max-width: 23%;
     max-height: 100%;
     margin: 0px 0px 0px 17px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/glasses-category.jpg);
+    background-image: url(../images/glasses-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1087,7 +1087,7 @@
     max-width: 24%;
     max-height: 100%;
     margin: 20px 20px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/sale-category.jpg);
+    background-image: url(../images/sale-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1099,7 +1099,7 @@
     max-width: 24%;
     max-height: 100%;
     margin: 20px 20px 0px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/bags-category.jpg);
+    background-image: url(../images/bags-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1111,7 +1111,7 @@
     max-width: 48.45%;
     max-height: 100%;
     margin: 20px 0px 0px 4.9px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/womens-category.jpg);
+    background-image: url(../images/womens-category.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     clear: both;
@@ -1120,7 +1120,7 @@
     height: 400px;
     width: 400px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/checked-stretch-dress.jpg);
+    background-image: url(../images/checked-stretch-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1128,7 +1128,7 @@
     height: 400px;
     width: 400px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-hipster-backpack.jpg);
+    background-image: url(../images/blue-hipster-backpack.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1136,7 +1136,7 @@
     height: 400px;
     width: 400px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-blue-shirt.jpg);
+    background-image: url(../images/cotton-blue-shirt.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1144,7 +1144,7 @@
     height: 400px;
     width: 400px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/cotton-yellow-tshirt.jpg);
+    background-image: url(../images/cotton-yellow-tshirt.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1152,7 +1152,7 @@
     height: 400px;
     width: 400px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/demin-overall-shorts.jpg);
+    background-image: url(../images/demin-overall-shorts.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1160,7 +1160,7 @@
     height: 400px;
     width: 400px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/pink-dotted-dress.jpg);
+    background-image: url(../images/pink-dotted-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1168,7 +1168,7 @@
     height: 400px;
     width: 400px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/stretch-knit-dress.jpg);
+    background-image: url(../images/stretch-knit-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
@@ -1176,7 +1176,7 @@
     height: 400px;
     width: 400px;
     margin: 20px 0px 20px 0px;
-    background-image: url(file:///Users/ramiwaked/Desktop/project-01/images/blue-silk-dress.jpg);
+    background-image: url(../images/blue-silk-dress.jpg);
     background-repeat: no-repeat;
     background-position: center center;
   }
